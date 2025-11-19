@@ -7,6 +7,7 @@ A simple and clean todo list web application built with vanilla JavaScript. Keep
 - ✅ Add new tasks
 - 🗑️ Delete tasks
 - ✔️ Mark tasks as complete/incomplete
+- 📊 Task counter showing completed/total tasks
 - 💾 Persistent storage using LocalStorage
 - 📱 Responsive design
 - 🎨 Clean and modern UI
